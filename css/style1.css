@@ -188,7 +188,7 @@ main
     justify-content: space-between;
     width: 400px;
     height: 300px;
-    background-image: url('/img1/background/photo1.svg');
+    background-image: url("/img1/background/photo1.svg");
 }
 
 .p1 p
@@ -222,7 +222,7 @@ main
     justify-content: space-between;
     width: 400px;
     height: 300px;
-    background-image: url('/img1/background/photo2.svg');
+    background-image: url("/img1/background/photo2.svg");
 }
 
 .p2 p
@@ -256,7 +256,7 @@ main
     justify-content: space-between;
     width: 400px;
     height: 300px;
-    background-image: url('/img1/background/photo3.svg');
+    background-image: url("/img1/background/photo3.svg");
 }
 
 .p3 p
@@ -290,7 +290,7 @@ main
     justify-content: space-between;
     width: 620px;
     height: 300px;
-    background-image: url('/img1/background/photo4.svg');
+    background-image: url("/img1/background/photo4.svg");
 }
 
 .p4 p
@@ -324,7 +324,7 @@ main
     justify-content: space-between;
     width: 620px;
     height: 300px;
-    background-image: url('/img1/background/photo5.svg');
+    background-image: url("/img1/background/photo5.svg");
 }
 
 .p5 p
@@ -356,7 +356,7 @@ footer
     background-color: #3B3937;
     display: flex;
     justify-content: center;
-    background-image: url('/img1/background_footer_1.svg');
+    background-image: url("/img1/background_footer_1.svg");
     font-family: "Gilroy", sans-serif; 
 }
 
